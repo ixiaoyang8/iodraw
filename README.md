@@ -8,7 +8,7 @@
 
 GitHub：[https://github.com/ixiaoyang8/iodraw/releases](https://github.com/ixiaoyang8/iodraw/releases)
 
-百度网盘：[https://pan.baidu.com/s/1A7BB2J8ZazYc5X6qOM_ImQ](https://pan.baidu.com/s/1A7BB2J8ZazYc5X6qOM_ImQ)，提取码：draw
+百度网盘：[https://pan.baidu.com/s/1T03izdWtRSeMqOXoT9HCug](https://pan.baidu.com/s/1T03izdWtRSeMqOXoT9HCug)，提取码：draw
 
 Gitee：[https://gitee.com/ixiaoyang8/iodraw/releases](https://gitee.com/ixiaoyang8/iodraw/releases)
 
