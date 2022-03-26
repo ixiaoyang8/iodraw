@@ -1,15 +1,12 @@
-关于
------ 
+About
+-----
+**ioDraw** is a free online drawing software, which is used to make flow chart, mind map, Gantt chart, whiteboard hand drawing, topology diagram, organization chart, UML, ER and sequence diagram, graphic design diagram, electronic circuit diagram, etc. it can be used without registration
 
-**ioDraw** 是免费的在线作图软件，用于制作流程图、思维导图、甘特图、拓扑图、组织结构图、UML、ER和时序图、电子电路图等，无需注册即可使用。
 
-下载桌面版
------ 
+Download
+-----
+GitHub: [https://github.com/ixiaoyang8/iodraw/releases](https://github.com/ixiaoyang8/iodraw/releases)
 
-GitHub：[https://github.com/ixiaoyang8/iodraw/releases](https://github.com/ixiaoyang8/iodraw/releases)
+Baidu Netdisk: [https://pan.baidu.com/s/1T03izdWtRSeMqOXoT9HCug](https://pan.baidu.com/s/1T03izdWtRSeMqOXoT9HCug), extraction code: draw
 
-百度网盘：[https://pan.baidu.com/s/1T03izdWtRSeMqOXoT9HCug](https://pan.baidu.com/s/1T03izdWtRSeMqOXoT9HCug)，提取码：draw
-
-Gitee：[https://gitee.com/ixiaoyang8/iodraw/releases](https://gitee.com/ixiaoyang8/iodraw/releases)
-
-更多功能，请访问 [iodraw.com](https://www.iodraw.com)
+Gitee: [https://gitee.com/ixiaoyang8/iodraw/releases](https://gitee.com/ixiaoyang8/iodraw/releases)
